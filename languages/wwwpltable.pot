@@ -1,0 +1,201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP List Table (Custom Table)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-07 05:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:157
+msgid "--select--"
+msgstr ""
+
+#: includes/admin/class-wwwp-ltable-admin.php:40
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:52
+msgid "Add Coupon"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:288
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:179
+msgid "Availability:"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:158
+msgid "Availibility"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:68
+msgid "Back to List"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:157
+msgid "Category"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:150
+msgid "Category:"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:188
+msgid "Choose the Coupon availability."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:81
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:183
+msgid "Client"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:159
+msgid "Computer"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:300
+msgid "Coupon changed successfully."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:304
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:296
+msgid "Coupon saved successfully."
+msgstr ""
+
+#: includes/admin/class-wwwp-ltable-admin.php:38
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:287
+msgid "Coupons"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:115
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:156
+msgid "Description"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:125
+msgid "Description:"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:186
+msgid "Distributor"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:114
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:30
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:135
+msgid "Enter the Coupon description."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:111
+msgid "Enter the Coupon title."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:199
+msgid "Enter the featured Coupon."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:196
+msgid "Featured Coupon:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.worldwebtechnology.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.worldwebtechnology.com/"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:222
+msgid "Items deleted (or they would be if we had items to delete)!"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:159
+msgid "Last Modified"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:158
+msgid "Mobile"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:191
+msgid "No coupons found."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-save-coupon.php:31
+msgid "Please enter Coupon description."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-save-coupon.php:26
+msgid "Please enter Coupon title."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-save-coupon.php:36
+msgid "Please select Coupon category."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:92
+msgid "Required fields"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:54
+msgid "Save"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:317
+msgid "Search Title"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:166
+msgid "Select the Coupon category."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin handles Add,Edit and Delete functinalities with <strong>Custom "
+"Table</strong> and Listing is managed via Wp_List_Table."
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-coupon-list.php:155
+msgid "Title"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:101
+msgid "Title:"
+msgstr ""
+
+#: includes/admin/forms/wwwp-ltable-add-edit-coupon.php:32
+msgid "Update"
+msgstr ""
+
+#. Author of the plugin
+msgid "World Web Technology"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-wwwp-ltable-admin.php:36
+msgid "WP List Table (Custom Table)"
+msgstr ""

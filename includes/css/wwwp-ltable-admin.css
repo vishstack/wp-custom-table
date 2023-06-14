@@ -1,0 +1,15 @@
+.wwwp-ltable-coupon-error {
+	color: red;
+}
+#wwwp-ltable-require-message {
+	padding: 10px 0 0 10px;
+}
+.wwwp-ltable-require {
+	color: red;
+}
+.wwwp-ltable-avail-chk label {
+	margin: 0 5px;
+}
+#wwwp-ltable-coupon .form-table td{
+	vertical-align:top !important;
+}
